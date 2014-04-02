@@ -1,0 +1,5 @@
+By Using the touch Senser
+The person Picks Gumbo
+It will Show the History, Nutrition and a Picture of it to the bottom Right of the Screen
+
+Using the touch sensors the food item will be selected. The screens will display the 4 panel information that was shown in project 2. 

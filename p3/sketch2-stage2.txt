@@ -1,0 +1,13 @@
+This is how the page will look like if somebody scans a rfid, it will pick the cateogry
+which is Entrees. And On the Right Side of the 1 Screen will Show
+the Different Categories.The will use the touch senser of guiding it.
+6 Rfid for 6 Categories
+Salads
+Entrees
+Soups
+Desserts
+Drinks
+Sides
+
+
+Once the Rfid is scanned the screens will change and the board will light up. The screens will display the selected group in the same way it did in project 2. Then the users will utilize the touch sensors to control the food item selection.

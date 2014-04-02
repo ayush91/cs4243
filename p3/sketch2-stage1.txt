@@ -1,0 +1,7 @@
+By: Ayush,Ben,Brian
+The main Page
+We're Using a 2x3 Desktop with Raspberry Pi, Arduino, Rfid Chips, Rfid Reader and Touch Senser
+Somebody going to scan one of the 6 Rfid we are going to use
+
+
+The Rfids are attached to tokens that are representative of the various types of groups we will be choosing from.The item is scanned and the system will recognize the type. This will be displayed both on the screens and on a light up led area on the board.

@@ -1,0 +1,10 @@
+Stage 3:
+
+Stage 3 shows what happens when an item is selected. The menu is shifted to the lower quadrant out of normal view. The item selected changes in coloration to notify the selection. The upper quadrants are replaced with various information on the item. 
+
+Screen 1 = History: This will provide a brief cultural history on the food item.
+Screen 2 = Nutrition: This will provide a nutrition chart for the selected item.
+Screen 3 = Image: This is an image of the finished product. 
+Screen 4 = Recipe: This displays a recipe of the meal for those interested in making it on their own.
+
+The pad stays the same as the intention is the provide the information to the screens and keep the focus off of just the interactive pad. 

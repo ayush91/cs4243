@@ -1,0 +1,64 @@
+{
+	"soups": {
+		"1": "../images/Gumbo.jpg",
+		"2": "../images/Etouffee.jpg",
+		"3": "../images/Gumbo.jpg",
+		"4": "../images/Gumbo.jpg",
+		"5": "../images/Gumbo.jpg",
+		"6": "../images/Gumbo.jpg"
+	},
+
+	"entrees": {
+		"1": "../images/RedBeans.jpg",
+		"2": "../images/RedBeans.jpg",
+		"3": "../images/RedBeans.jpg",
+		"4": "../images/RedBeans.jpg",
+		"5": "../images/RedBeans.jpg",
+		"6": "../images/RedBeans.jpg"
+	},
+
+	"drinks": {
+		"1": "../images/Hurricane.jpg",
+		"2": "../images/Hurricane.jpg",
+		"3": "../images/Hurricane.jpg",
+		"4": "../images/Hurricane.jpg",
+		"5": "../images/Hurricane.jpg",
+		"6": "../images/Hurricane.jpg"
+	},
+
+	"salads": {
+		"1": "../images/Gumbo.jpg",
+		"2": "../images/Gumbo.jpg",
+		"3": "../images/Gumbo.jpg",
+		"4": "../images/Gumbo.jpg",
+		"5": "../images/Gumbo.jpg",
+		"6": "../images/Gumbo.jpg"
+	},
+
+	"sides": {
+		"1": "../images/Etouffee.jpg",
+		"2": "../images/Etouffee.jpg",
+		"3": "../images/Etouffee.jpg",
+		"4": "../images/Etouffee.jpg",
+		"5": "../images/Etouffee.jpg",
+		"6": "../images/Etouffee.jpg"
+	},
+
+	"desserts": {
+		"1": "../images/Pralines.jpg",
+		"2": "../images/Pralines.jpg",
+		"3": "../images/Pralines.jpg",
+		"4": "../images/Pralines.jpg",
+		"5": "../images/Pralines.jpg",
+		"6": "../images/Pralines.jpg"
+	},
+
+	"appetizers": {
+		"1": "../images/Etouffee.jpg",
+		"2": "../images/Etouffee.jpg",
+		"3": "../images/Etouffee.jpg",
+		"4": "../images/Etouffee.jpg",
+		"5": "../images/Etouffee.jpg",
+		"6": "../images/Etouffee.jpg"
+	}
+}

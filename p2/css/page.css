@@ -1,0 +1,250 @@
+@font-face {
+    font-family: snap;
+    src: url('../font/SNAP___.ttf');
+}
+
+* {
+    font-family: snap;
+}
+
+html, body {
+    height: 100%;
+}
+
+body {
+    background-color: hsla(0, 0%, 0%, 1);
+    margin: 0;
+    padding: 0;
+    font-size: 24px;
+    text-align: center;
+}
+
+#container {
+    position: relative;
+    height: 100%;
+    /*background-color: #eeff00;*/
+    text-align: center;
+}
+
+#content {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    width: 95%;
+    height: 95%;
+    margin: auto;
+    text-align: center;
+    /*background-color: #333;*/
+}
+
+#content img {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+    width: 50%;
+}
+
+#content #header span {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    margin: auto;
+    width: 90%;
+    height: 90%;
+    /*background-color: #55ee44;*/
+}
+
+#content #header span h1 {
+    position: absolute;
+    top: 25%;
+    left: 25%;
+    right: 25%;
+    bottom: 25%;
+    margin: auto;
+    font-family: snap;
+    line-height:350%;
+    font-size: 600%;
+    color: #ffe71e;
+    /*background-color: #000;*/
+}
+
+#menu {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+    width: 95%;
+    height: 80%;
+}
+
+#menubar {
+    display: table;
+    width: 100%;
+    height: 25%;
+}
+
+#buttonbar {
+    display: table-cell;
+    vertical-align: middle;
+    height: 95%;
+    width: 100%;
+}
+
+#selMenu {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+    width: 95%;
+    height: 95%;
+    display: table;
+}
+
+#selMenu #table {
+    display: table-cell;
+    vertical-align: middle;
+    height: 95%;
+    width: 100%;
+}
+
+.btn-left {
+    background-color: #555555;
+    -moz-border-radius: 6px;
+    -webkit-border-radius: 6px;
+    border-radius: 6px;
+    border: 1px solid #ffffff;
+    display: inline-block;
+    color: #ffffff;
+    font-family: snap;
+    font-size: 2em;
+    font-weight: normal;
+    padding: .75%;
+    width: 30%;
+    text-decoration: none;
+    margin: 1% auto 1% auto;
+}
+
+/*.btn-left:hover {
+    background-color: #888888;
+    color: #333333;
+}
+*/
+.btn-left:active {
+    background-color: #24F701;
+    position: relative;
+    top: 1px;
+}
+
+.btn-right {
+    background-color: #555555;
+    border-radius: 6px;
+    border: 1px solid #ffffff;
+    display: inline-block;
+    color: #ffffff;
+    font-family: snap;
+    font-size: 2em;
+    font-weight: normal;
+    padding: .75%;
+    width: 30%;
+    text-decoration: none;
+    margin: 1% auto 1% auto;
+}
+
+/*.btn-right:hover {
+    background-color: #888888;
+    color: #333333;
+}*/
+
+.btn-right:active {
+    background-color: #24F701;
+    position: relative;
+    top: 1px;
+}
+
+.btn-sel {
+    background-color: #555555;
+    border-radius: 6px;
+    border: 1px solid #ffffff;
+    display: inline-block;
+    color: #ffffff;
+    font-family: snap;
+    font-size: 2em;
+    font-weight: normal;
+    padding: 0.25%;
+    width: 75%;
+    text-decoration: none;
+    margin: 1% auto 1% auto;
+}
+
+#recipe {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+    width: 95%;
+    height: 95%;
+    /*background-color: #672345;*/
+}
+
+#recipe #recipeHead {
+	left: 0;
+	right: 0;
+	margin: auto;
+    width: 90%;
+    height: 30%;
+    /*background-color: #E066FF;*/
+}
+
+#recipe #recipeHead span {
+    position: absolute;
+	left: 0;
+	right: 0;
+	margin: auto;
+    width: 100%;
+    height: 30%;
+    /*background-color: #55ee44;*/
+}
+
+#recipe #recipeHead span h1 {
+	position: absolute;
+	left: 0;
+	right: 0;
+	margin: auto;
+	width: 100%;
+	height: 100%;
+    font-family: snap;
+	line-height: 200%;
+    font-size: 600%;
+    color: #ffe71e;
+    /*background-color: #000;*/
+}
+
+#recipe #rows {
+	top: 100%;
+    width: 100%;
+	height: 70%;
+    /*background-color: #FFFFFF;*/
+}
+
+#recipe #rows img {
+    top: 30%;
+	width: 75%;
+}
+
+#recipe #rowsNut img {
+    top: 30%;
+    width: 35%;
+}

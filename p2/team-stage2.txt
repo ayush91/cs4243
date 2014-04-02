@@ -1,0 +1,3 @@
+Stage 2:
+
+In the second stage the title is shifted to the middle display still availble for viewing but out of the main light. The top panels are replaced by what is being done on the pad. This is showing the item select on the left and the sorting options on the right. On the pad it is selection on top sorting on the bottom. This is to display the user interaction to those surrounding and to take the focus off of the pad. 

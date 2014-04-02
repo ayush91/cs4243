@@ -1,0 +1,3 @@
+Stage 1:
+
+This stage shows the initial stage of the device and the wall panels. It gives a title and the bottom four sections display random photos of available food types. As per suggestion, we have moved the title to the top for better visibility. Again the flashing photos are there to catch attention but not take all of the focus.
